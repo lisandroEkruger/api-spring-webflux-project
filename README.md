@@ -30,7 +30,7 @@ Este proyecto está diseñado para demostrar cómo realizar operaciones CRUD de 
 
 ## Requisitos Previos
 
-- **Java**: JDK 21 o superior.
+- **Java**: JDK 17 o superior.
 - **Maven**: Para construir el proyecto.
 - **Docker**: Para ejecutar los contenedores.
 
